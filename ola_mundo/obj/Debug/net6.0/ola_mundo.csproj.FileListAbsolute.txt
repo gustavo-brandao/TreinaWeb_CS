@@ -1,0 +1,15 @@
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\bin\Debug\net6.0\ola_mundo.exe
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\bin\Debug\net6.0\ola_mundo.deps.json
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\bin\Debug\net6.0\ola_mundo.runtimeconfig.json
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\bin\Debug\net6.0\ola_mundo.dll
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\bin\Debug\net6.0\ola_mundo.pdb
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.AssemblyInfo.cs
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.dll
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\refint\ola_mundo.dll
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.pdb
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ola_mundo.genruntimeconfig.cache
+C:\xampp\htdocs\TreinaWeb_CS\ola_mundo\obj\Debug\net6.0\ref\ola_mundo.dll
