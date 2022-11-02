@@ -1,0 +1,15 @@
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.exe
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.deps.json
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.runtimeconfig.json
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.dll
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\bin\Debug\net6.0\DeclaracaoVariaveis.pdb
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.csproj.AssemblyReference.cache
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.AssemblyInfo.cs
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.dll
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\refint\DeclaracaoVariaveis.dll
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.pdb
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\DeclaracaoVariaveis.genruntimeconfig.cache
+C:\xampp\htdocs\TreinaWeb_CS\DeclaracaoVariaveis\obj\Debug\net6.0\ref\DeclaracaoVariaveis.dll
